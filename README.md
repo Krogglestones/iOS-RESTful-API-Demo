@@ -6,3 +6,5 @@ In order to create a new gist for your Github Profile, you'll need to make 1 cod
 1) In the DataService.swift file, look for a function called "createAuthCredentials()"
 
 2) Change the authString variable from "XXXX:XXXX" to "yourGithubUserName:githubPassword"
+
+Clicking the "new" button will now add a "Hello World" gist to your Github Profile.
